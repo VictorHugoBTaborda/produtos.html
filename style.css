@@ -36,9 +36,20 @@ border-radius: 10px;
 
 }
 
-.produtos li{
+.produtos li:hover{
 
-    border-color:;
+    border-color:#C78C19;
+
+}
+
+.produtos li:active{
+
+     border-color:#088C19;
+
+}
+.proutor li:hover h2{
+    font-size: 34px;
+
 }
 
 .produtos h2 {
